@@ -1,7 +1,3 @@
----
-description: 测试的书
----
-
 # Initial page
 
 ## Getting Super Powers
