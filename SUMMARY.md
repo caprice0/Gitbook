@@ -10,7 +10,7 @@
 
 * [Untitled](firstchapter/untitled.md)
 
-## secondchapter
+## SECONDchapter
 
 * [Untitled](secondchapter/untitled.md)
 
